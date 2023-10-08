@@ -19,13 +19,15 @@ Após instalar e ativar os plugins necessários, crie seu primeiro formulário. 
 
 <b>Obs: Não use hífen "-" nos nomes dos campos do formulário. Se estiver usando por exemplo "your-mail" no campo e-mail, altere para "yourmail" ou utilize "_".</b>
 
-![Editar-formulário-de-contato-‹-Construmoura-Construtora-—-WordPress](https://github.com/nadyadg/cvcrm-contactform-7/assets/74943083/4ddbd388-4c50-43c0-ba10-9366900c440b)
+![Editar-formulário-de-contato-‹--—-WordPress](https://github.com/nadyadg/cvcrm-contactform-7/assets/74943083/d4f5f298-4b93-4cbc-a924-7e595ed55b29)
+
 
 Baixe e abra o arquivo webhook-contact-form7.php e edite conforme os campos do seu formulário, e de acordo com as suas necessidades. Não esqueça de incluir o token do usuário de integrações do CV CRM. Leia mais em -> 
 https://suporte.cvcrm.com.br/kb/article/139171/como-gerar-um-token-painel-do-gestor?ticketId=&q=token. Salve o arquivo e coloque em uma pasta do seu servidor web através do FTP. 
 Com o caminho da pasta deste arquivo em mãos, volte na aba "webhook" do contact form 7 e cole a url absoluta no campo "webhook URL"
 
-![Editar-formulário-de-contato-‹-Construmoura-Construtora-—-WordPress2](https://github.com/nadyadg/cvcrm-contactform-7/assets/74943083/bbe0a022-6437-4bdb-b8f6-fc666a67c728)
+![Editar-formulário-de-contato-‹--—-WordPress2](https://github.com/nadyadg/cvcrm-contactform-7/assets/74943083/44d08473-15a3-4347-8afc-af06489972b4)
+
 
 
 O arquivo webhook-contact-form7.php esta comentado com mais instruções.
